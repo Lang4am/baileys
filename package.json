@@ -1,5 +1,5 @@
 {
-  "name": "@poucode/baileys",
+  "name": "@lang4am/baileys",
   "type": "module",
   "version": "1.0.0",
   "description": "A WebSockets library for interacting with WhatsApp Web \u2014 PouCode fork of Baileys",
@@ -12,10 +12,10 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://github.com/pou-code/Baileys",
+  "homepage": "https://github.com/Lang4am/baileys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pou-code/Baileys.git"
+    "url": "git+https://github.com/Lang4am/baileys.git"
   },
   "license": "MIT",
   "author": "PouCode",
